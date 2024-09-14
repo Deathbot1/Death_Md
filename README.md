@@ -15,7 +15,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/Deathbot1/Death-Md/fork' target="_green"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-green?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Deathbot1/Death_Md/fork' target="_green"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-green?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
 
